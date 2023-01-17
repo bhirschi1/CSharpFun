@@ -19,6 +19,7 @@ namespace CSharpFun
             if (language == "EN")
             {
                 Console.WriteLine("Hello, " + name);
+                Console.WriteLine("blah");
             }
             if (language == "PT")
             {
